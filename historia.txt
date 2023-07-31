@@ -5,3 +5,5 @@ Nestor Malo tiene 33 anos y nacio en Colombia viviendo en todo el mundo.
 Hoy hablaremos de su historia.
 
 En camara parece alto, pero es alto.
+
+Hoy quiere ser un senior en Data.
